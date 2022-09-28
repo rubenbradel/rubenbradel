@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ruben Bravo</h1>
-<h3 align="center">Software development & Cybersecurity enthusiast</h3>
+<h3 align="center">Telecomm Engineer. Software development & Cybersecurity enthusiast 👨‍💻</h3>
+<h1 align="center"></h1>
 
 <img align="right" alt="Coding" width="400" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
 
-- 🔭 I’m currently working on **some Backend and Cybersecurity projects!**
+- 🔭 I’m currently working on **some Backend and Cybersecurity projects**
 
-- 🌱 I’m currently learning **Cybersecurity, Cloud Security and Web Development**
+- 🌱 I’m currently learning **Pentesting, Cloud Security and Web Development**
 
 - ⚡ Fun fact **I am the strongest communicator and mentor!**
 
