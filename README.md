@@ -22,6 +22,7 @@
 <h3 align="left">A little more about me:</h3>
 
 Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I gained a huge experience in software and security environments, and also made me prosper until becoming a brilliant communicator 🤩
+You can see me in action in the following pictures:
 <br>
 <br>
 <img alt="Look at me at the stage!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1667433600&v=beta&t=hnbSDox986tbedk2AVx-dNRnWniwFgsFxhXkfprJFKc">
