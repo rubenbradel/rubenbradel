@@ -19,5 +19,19 @@
 </p>
 
 <h1 align="left"></h1>
-<img align="left" alt="Coding" width="350" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
+<h3 align="left">A little more about me:</h3>
 
+Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I gained a huge experience in software and security environments, and also made me prosper until becoming a brilliant communicator 🤩
+<br>
+<br>
+<img alt="Look at me at the stage!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1667433600&v=beta&t=hnbSDox986tbedk2AVx-dNRnWniwFgsFxhXkfprJFKc">
+<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1667433600&v=beta&t=SBw1M4uZoA3etA5TXaHlnQsq-00QM62RmYbeWSq4zPA">
+<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1667433600&v=beta&t=W25pdoQ3bJIiWTyrc2p_4vk7fMYK0JrowTJTsFsMGnI">
+<br>
+<br>
+But, for now, I am focusing on the software side, where I can develop all my technical skills and knowledge in order to create some fun things 😁
+
+<!--
+<h1 align="left"></h1>
+<img align="left" alt="Coding" width="350" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
+-->
