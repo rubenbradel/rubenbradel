@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Pentesting, Cloud Security and Web Development**
 
-- ⚡ Fun fact **I am a brilliant communicator!**
+- ⚡ Fun fact about me: **I am a brilliant communicator!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
