@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ruben Bravo</h1>
-<h3 align="center">Telecomm Engineer. Software development & Cybersecurity enthusiast 👨‍💻</h3>
-<h1 align="center"></h1>
+<h1 align="left">Hi 👋, I'm Ruben Bravo</h1>
+<h3 align="left">Telecomm Engineer. Software development & Cybersecurity enthusiast 👨‍💻</h3>
+<h1 align="left"></h1>
 
+<!--
 <img align="right" alt="Coding" width="350" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
+-->
 
 - 🔭 I’m currently working on **some Backend and Cybersecurity projects**
 
