@@ -2,10 +2,6 @@
 <h3 align="left">Telecomm Engineer. Software development & Cybersecurity enthusiast 👨‍💻</h3>
 <h1 align="left"></h1>
 
-<!--
-<img align="right" alt="Coding" width="350" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
--->
-
 - 🔭 I’m currently working on **some Backend and Cybersecurity projects**
 
 - 🌱 I’m currently learning **Pentesting, Cloud Security and Web Development**
@@ -21,3 +17,7 @@
 <a href="https://stackoverflow.com/users/rubenbradel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rubenbradel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rubenbradel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rubenbradel" height="30" width="40" /></a>
 </p>
+
+<h1 align="left"></h1>
+<img align="left" alt="Coding" width="350" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
+
