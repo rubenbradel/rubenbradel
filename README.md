@@ -21,7 +21,7 @@
 <h1 align="left"></h1>
 <h3 align="left">A little more about me:</h3>
 
-Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I gained a huge experience in software and security environments, and also made me prosper until becoming a brilliant communicator 🤩 
+Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I gained a huge experience in software and security environments, and also made me prosper until becoming a brilliant communicator 🤩  
 You can see me in action in the following pictures:
 <br>
 <br>
