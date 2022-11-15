@@ -30,7 +30,7 @@ You can see me in action in the following pictures:
 <img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1671667200&v=beta&t=BzOPZdjwkzEnn00XTHQ_61MNyMyyXOmGlNlP5sDXtF8">
 <br>
 <br>
-But, for now, I am focusing on the technical side, deeping into software delevopment and cybersecurity, where I can develop all my technical skills and knowledge in order to create a lot of fun things 😁
+But, for now, I am focusing on the technical side, deeping into cybersecurity, cloud environments and software delevopment, where I can develop all my technical skills and knowledge in order to create a lot of fun things 😁
 
 <!--
 <h1 align="left"></h1>
