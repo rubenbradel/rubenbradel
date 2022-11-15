@@ -25,9 +25,9 @@ Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I ga
 You can see me in action in the following pictures:
 <br>
 <br>
-<img alt="Look at me at the stage!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1667433600&v=beta&t=hnbSDox986tbedk2AVx-dNRnWniwFgsFxhXkfprJFKc">
-<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1667433600&v=beta&t=SBw1M4uZoA3etA5TXaHlnQsq-00QM62RmYbeWSq4zPA">
-<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1667433600&v=beta&t=W25pdoQ3bJIiWTyrc2p_4vk7fMYK0JrowTJTsFsMGnI">
+<img alt="Look at me at the stage!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1671667200&v=beta&t=FmiO1Lv1rcT5THNxOOMeNOpRupIvG4isAEj36Ot18A0">
+<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1671667200&v=beta&t=WLCef96HutxzhQgvCDGsQsCLwWGyJGZIqQvVqi5sUeg">
+<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1671667200&v=beta&t=BzOPZdjwkzEnn00XTHQ_61MNyMyyXOmGlNlP5sDXtF8">
 <br>
 <br>
 But, for now, I am focusing on the technical side, deeping into software delevopment and cybersecurity, where I can develop all my technical skills and knowledge in order to create a lot of fun things 😁
