@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ruben Bravo</h1>
-<h3 align="left">Telecomm Engineer. Software development & Cybersecurity enthusiast 👨‍💻</h3>
+<h3 align="left">Telecomm Engineer. Cybersecurity & Cloud environments enthusiast 👨‍💻</h3>
 <h1 align="left"></h1>
 
-- 🔭 I’m currently working on **some Backend and Cybersecurity projects**
+- 🔭 I’m currently working on **some Cybersecurity and Cloud projects**
 
-- 🌱 I’m currently learning **Pentesting, Cloud Security and Web Development**
+- 🌱 I’m currently learning **Pentesting and Cloud Security**
 
 - ⚡ Fun fact about me: **I am a brilliant communicator!**
 
