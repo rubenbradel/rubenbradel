@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ruben Bravo</h1>
-<h3 align="left">Telecomm Engineer. Software, Cybersecurity & Cloud environments enthusiast 👨‍💻</h3>
+<h3 align="left">Telecomms Engineer. Security & Cybersecurity enthusiast 👨‍💻</h3>
 <h1 align="left"></h1>
 
 - 🔭 I’m currently working on **some Cybersecurity and Cloud projects**
 
-- 🌱 I’m currently learning **Pentesting and Cloud Security (AWS)**
+- 🌱 I’m currently learning **Pentesting and Cloud Security**
 
 - ⚡ Fun fact about me: **I am a brilliant communicator!**
 
@@ -25,12 +25,12 @@ Fun fact, I have a great experience as a Pre-Sales Security Enginner, where I ga
 You can see me in action in the following pictures:
 <br>
 <br>
-<img alt="Look at me at the stage!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1671667200&v=beta&t=FmiO1Lv1rcT5THNxOOMeNOpRupIvG4isAEj36Ot18A0">
-<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1671667200&v=beta&t=WLCef96HutxzhQgvCDGsQsCLwWGyJGZIqQvVqi5sUeg">
-<img alt="Look at me at the stage again!" width="300" src="https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1671667200&v=beta&t=BzOPZdjwkzEnn00XTHQ_61MNyMyyXOmGlNlP5sDXtF8">
+<img alt="Look at me at the stage!" width="300" src="[https://media-exp1.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1671667200&v=beta&t=FmiO1Lv1rcT5THNxOOMeNOpRupIvG4isAEj36Ot18A0](https://media.licdn.com/dms/image/C5622AQEOwiGpF3yVYQ/feedshare-shrink_2048_1536/0/1643711298081?e=1676505600&v=beta&t=JjRPwKjiry83kERpzhrsx7TKyN_IJnEd-a_QiJxvMv0)">
+<img alt="Look at me at the stage again!" width="300" src="[https://media-exp1.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1671667200&v=beta&t=WLCef96HutxzhQgvCDGsQsCLwWGyJGZIqQvVqi5sUeg](https://media.licdn.com/dms/image/C5622AQHgLRDumKg3aA/feedshare-shrink_2048_1536/0/1643711293807?e=1676505600&v=beta&t=I15CbX6Bm17NzoA6gkmwFbbpmdANi9peNN7jTe-Y6BY)">
+<img alt="Look at me at the stage again!" width="300" src="[https://media-exp1.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1671667200&v=beta&t=BzOPZdjwkzEnn00XTHQ_61MNyMyyXOmGlNlP5sDXtF8](https://media.licdn.com/dms/image/C5622AQG6zpsP7Hw48w/feedshare-shrink_2048_1536/0/1643711297807?e=1676505600&v=beta&t=-PQmy5yWoSq45s-b5sWswmgQ6yePlajKP_KLaSafZJ8)">
 <br>
 <br>
-But, for now, I am focusing on the technical side, deeping into cybersecurity, cloud environments and software delevopment, where I can develop all my technical skills and knowledge in order to create a lot of fun things 😁
+But, for now, I am focusing on the technical side, deeping into penetration testing and cybersecurity in general, where I can develop all my technical skills and knowledge in order to create a lot of fun things 😁
 
 <!--
 <h1 align="left"></h1>
