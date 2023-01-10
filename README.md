@@ -2,7 +2,7 @@
 <h3 align="left">Telecomms Engineer. Security & Cybersecurity enthusiast 👨‍💻</h3>
 <h1 align="left"></h1>
 
-- 🔭 I’m currently working on **some Cybersecurity and Cloud projects**
+- 🔭 I’m currently working on **some Cybersecurity and Penetration Testing projects**
 
 - 🌱 I’m currently learning **Pentesting and Cloud Security**
 
